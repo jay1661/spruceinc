@@ -1,0 +1,229 @@
+{
+    "system_colors": [
+        {
+            "_id": "primary",
+            "title": "Primary",
+            "color": "#DAA14C"
+        },
+        {
+            "_id": "primary_hover",
+            "title": "Primary Hover",
+            "color": "#C49044"
+        },
+        {
+            "_id": "text",
+            "title": "Text",
+            "color": "#414141"
+        },
+        {
+            "_id": "text_light",
+            "title": "Text light",
+            "color": "#7A7A7A"
+        },
+        {
+            "_id": "accent",
+            "title": "Accent",
+            "color": "#000000"
+        },
+        {
+            "_id": "light",
+            "title": "Light",
+            "color": "#909090"
+        },
+        {
+            "_id": "highlight",
+            "title": "Highlight",
+            "color": "#E74F3D"
+        },
+        {
+            "_id": "border",
+            "title": "Border",
+            "color": "#DFDCD5"
+        },
+        {
+            "_id": "background",
+            "title": "Background",
+            "color": "#FFFFFF"
+        },
+        {
+            "_id": "background_light",
+            "title": "Background Light",
+            "color": "#F6F4F0"
+        }
+    ],
+    "custom_colors": [],
+    "system_typography": [
+        {
+            "_id": "primary",
+            "title": "Primary",
+            "typography_typography": "custom"
+        },
+        {
+            "_id": "secondary",
+            "title": "Secondary",
+            "typography_typography": "custom"
+        },
+        {
+            "_id": "accent",
+            "title": "Accent",
+            "typography_typography": "custom"
+        },
+        {
+            "_id": "text",
+            "title": "Text"
+        },
+        {
+            "_id": "heading_title",
+            "title": "Heading Title",
+            "typography_font_family": "Carafity Heading",
+            "typography_font_weight": "400",
+            "typography_letter_spacing": {
+                "unit": "px",
+                "size": -1,
+                "sizes": []
+            },
+            "typography_font_size": {
+                "unit": "px",
+                "size": 60,
+                "sizes": []
+            },
+            "typography_line_height": {
+                "unit": "em",
+                "size": 1,
+                "sizes": []
+            },
+            "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 40,
+                "sizes": []
+            },
+            "typography_line_height_mobile": {
+                "unit": "px",
+                "size": "",
+                "sizes": []
+            },
+            "typography_typography": "custom",
+            "typography_font_size_tablet_extra": {
+                "unit": "px",
+                "size": 52,
+                "sizes": []
+            },
+            "typography_font_size_tablet": {
+                "unit": "px",
+                "size": 48,
+                "sizes": []
+            },
+            "typography_letter_spacing_tablet": {
+                "unit": "px",
+                "size": -0.5,
+                "sizes": []
+            },
+            "typography_letter_spacing_mobile": {
+                "unit": "px",
+                "size": 0,
+                "sizes": []
+            }
+        }
+    ],
+    "custom_typography": [
+        {
+            "_id": "a28d849",
+            "title": "Sub Title",
+            "typography_typography": "custom",
+            "typography_font_size": {
+                "unit": "px",
+                "size": 12,
+                "sizes": []
+            },
+            "typography_font_weight": "600",
+            "typography_text_transform": "uppercase",
+            "typography_line_height": {
+                "unit": "em",
+                "size": 1,
+                "sizes": []
+            },
+            "typography_letter_spacing": {
+                "unit": "px",
+                "size": 2,
+                "sizes": []
+            }
+        },
+        {
+            "_id": "a6fd68e",
+            "title": "Heading 1",
+            "typography_typography": "custom",
+            "typography_font_family": "Carafity Heading",
+            "typography_font_size": {
+                "unit": "px",
+                "size": 44,
+                "sizes": []
+            },
+            "typography_line_height": {
+                "unit": "em",
+                "size": 1.0900000000000000799360577730112709105014801025390625,
+                "sizes": []
+            },
+            "typography_line_height_tablet_extra": {
+                "unit": "em",
+                "size": "",
+                "sizes": []
+            },
+            "typography_letter_spacing": {
+                "unit": "px",
+                "size": -1,
+                "sizes": []
+            },
+            "typography_font_size_tablet": {
+                "unit": "px",
+                "size": 36,
+                "sizes": []
+            },
+            "typography_font_size_mobile": {
+                "unit": "px",
+                "size": 32,
+                "sizes": []
+            },
+            "typography_letter_spacing_tablet": {
+                "unit": "px",
+                "size": -0.5,
+                "sizes": []
+            },
+            "typography_letter_spacing_mobile": {
+                "unit": "px",
+                "size": 0,
+                "sizes": []
+            }
+        }
+    ],
+    "default_generic_fonts": "Sans-serif",
+    "site_name": "Carafity",
+    "site_description": "Bamboo Handmade Shop WooCommerce Theme",
+    "page_title_selector": "h1.entry-title",
+    "activeItemIndex": 1,
+    "active_breakpoints": [
+        "viewport_mobile",
+        "viewport_mobile_extra",
+        "viewport_tablet",
+        "viewport_tablet_extra",
+        "viewport_laptop"
+    ],
+    "viewport_md": 768,
+    "viewport_lg": 1025,
+    "container_width": {
+        "unit": "px",
+        "size": 1290,
+        "sizes": []
+    },
+    "space_between_widgets": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+    },
+    "woocommerce_catalog_rows": 4,
+    "woo_carousel_slides_to_show": "4",
+    "woo_carousel_slides_to_show_laptop": "4",
+    "woo_carousel_slides_to_show_tablet_extra": "3",
+    "woo_carousel_slides_to_show_tablet": "2",
+    "woo_carousel_slides_to_show_mobile_extra": "2",
+    "woo_carousel_slides_to_show_mobile": "1"
+}
